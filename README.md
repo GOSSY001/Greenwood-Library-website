@@ -23,4 +23,33 @@ Both created a branch of the main repo and work on different features
 <img width="1366" height="724" alt="9" src="https://github.com/user-attachments/assets/1c45b8df-d8ad-4760-9689-37a4e6ed9fae" />
 <img width="1366" height="722" alt="19" src="https://github.com/user-attachments/assets/27055a87-3d9c-4ad8-a218-2f1efb36871d" />
 <img width="1366" height="722" alt="19" src="https://github.com/user-attachments/assets/78b2dae9-c7e3-4a80-90f2-f9c36aed528c" />
+<img width="1017" height="259" alt="21" src="https://github.com/user-attachments/assets/f94fbc62-ab6d-4bbe-8f89-f3b5f6760edc" />
+<img width="1017" height="259" alt="21" src="https://github.com/user-attachments/assets/7c1725f1-3558-4192-91cd-4138e6f35a76" />
 
+<img width="1366" height="698" alt="27" src="https://github.com/user-attachments/assets/c5503047-8763-4a0f-b701-c14fbabdd530" />
+
+<img width="1366" height="698" alt="27" src="https://github.com/user-attachments/assets/c249a030-b6e8-48c1-9c75-cc50a41adb15" />
+
+<img width="1017" height="259" alt="21" src="https://github.com/user-attachments/assets/620aeb5f-126e-4d3d-823c-4e4078b70259" />
+
+<img width="1017" height="259" alt="21" src="https://github.com/user-attachments/assets/8780deca-e913-49c5-b818-85c13783ef2b" />
+
+<img width="1017" height="259" alt="21" src="https://github.com/user-attachments/assets/94573bd7-1829-4f7d-956a-306fec1d10e6" />
+
+<img width="1017" height="259" alt="21" src="https://github.com/user-attachments/assets/be50ebee-ef87-4e84-82c8-9125859d30bf" />
+
+<img width="1366" height="597" alt="34" src="https://github.com/user-attachments/assets/0876b70f-174f-47e9-9f38-b3c1149a7341" />
+
+<img width="1366" height="597" alt="34" src="https://github.com/user-attachments/assets/7883733d-cbef-499a-be39-c5a2a4e60081" />
+
+<img width="1366" height="597" alt="34" src="https://github.com/user-attachments/assets/6da0cadb-0f71-4a80-9a83-7000738b34de" />
+
+<img width="1366" height="768" alt="30" src="https://github.com/user-attachments/assets/539dc00a-7d75-4f00-a8d9-c1b07d400b2c" />
+
+<img width="1366" height="768" alt="30" src="https://github.com/user-attachments/assets/455e81b3-6357-4cca-ba8f-b218e590c984" />
+
+<img width="1366" height="768" alt="30" src="https://github.com/user-attachments/assets/2ec84601-013f-463a-a8e0-6cf22953180b" />
+
+<img width="1366" height="768" alt="30" src="https://github.com/user-attachments/assets/f9109d1d-591c-4e0b-a848-01ad2584320d" />
+
+<img width="1366" height="698" alt="27" src="https://github.com/user-attachments/assets/bc405304-30fb-4734-8b57-7ea37a2bd667" />

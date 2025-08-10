@@ -1,8 +1,9 @@
 This is a simple simulation of a library website. It is built using HTML.
 
 It shows two developer's Morgan and Jaime's work.
-
 Both created a branch of the main repo and work on different features
+image 1-5, 31-37 shows the github pull request,commit and merge of the branches created
+image 6-30 shows the workflow on vscode which includes git init,commit,pull,push and checkout branches. also includes creating of Greenwood library website Home,About-us,Contact-us,Events etc.
 <img width="1366" height="599" alt="1" src="https://github.com/user-attachments/assets/71dfb28a-da68-4f9d-962f-dbd87ad082ff" />
 <img width="1366" height="599" alt="1" src="https://github.com/user-attachments/assets/b8ce7aef-b16d-4c82-b0f1-d99d69ab3220" />
 <img width="1187" height="599" alt="3" src="https://github.com/user-attachments/assets/1de855d3-b081-469d-97f2-a7383b1d35c8" />
